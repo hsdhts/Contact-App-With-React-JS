@@ -1,6 +1,6 @@
 # Contacts App Project
 
-This app is built from the learning outcomes of React in Dicoding [Belajar membuat aplikasiweb dengan react ](https://www.dicoding.com).
+This app is built from the learning outcomes of React in Dicoding [Belajar membuat aplikasi web dengan react ](https://www.dicoding.com).
 
 
 ## Project Setup
